@@ -1,0 +1,19 @@
+{
+  "name": "orion-bot",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash:7999/~jasonle/orion-bot.git"
+  }
+}
